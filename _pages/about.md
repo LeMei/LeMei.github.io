@@ -21,5 +21,4 @@ social: true  # includes social icons at the bottom of the page
 
 
 I am currently Postdoctoral at University of Copenhagen.
-My research interests lie at the intersection of natural language processing, machine learning, haptic interaction.
-Now, I research in sentiment analysis with text, audio, video and haptic signals.    
+My research interests lie at the intersection of natural language processing, machine learning, haptic interaction. Now, I am working on sentiment analysis with text, audio, video and haptic signals.
