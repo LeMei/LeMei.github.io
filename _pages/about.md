@@ -24,4 +24,6 @@ I am currently Postdoctoral at University of Copenhagen, working with Prof. Hast
 
 After completing my master's degree and before pursuing my PhD, I worked as a search algorithm engineer at Xiaomi Cloud Platform for about a year and a half. During my PhD, I interned at DAMO Academy for more than six months.
 
-My research interests lie at the multimodal learning, affective computing, machine learning, haptic interaction. Now, I am working on affective computing tasks with text, audio, video and haptic modalities. If you need my mentorship for your research projects, feel free to reach out !
+My research interests lie at the multimodal learning, affective computing, machine learning, haptic interaction. Now, I am working on affective computing tasks with text, audio, video and haptic modalities. Apart from research, I enjoy painting, shopping, and watching BiliBili.
+
+If your project requires any involvement or any assistance from me, feel free to reach out!
