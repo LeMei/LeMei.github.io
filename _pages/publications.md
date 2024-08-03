@@ -3,13 +3,13 @@ layout: page
 permalink: /publications/
 title: Publications
 description:
-years: [2024, 2023, 2022, 2021, 2020]
+years: [2024, 2023, 2022, 2021, 2020, 2019]
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
-{% assign exclusions = "2020" | split: ":" %}
+{% assign exclusions = "2018" | split: ":" %}
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}
