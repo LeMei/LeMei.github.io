@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 [University of Copenhagen, Denmark](https://di.ku.dk/english/)
 
 
-I am currently Postdoctoral at University of Copenhagen, working with Prof. Hasti Seifi and Dr. Daniel Hershcovich. Previously, I obtained my PhD from the Harbin Institute of Technology, Shenzhen, supervised by Prof. Guangming Lu and Prof. Yi Zhao (2019-2023). Before joining HITsz, I obtained my MSc in Northeastern University under supervision of Prof. Shukuan Lin(2015-18). 
+I am currently Postdoctoral at University of Copenhagen, working with Prof. Hasti Seifi and Dr. Daniel Hershcovich. Previously, I obtained my PhD from the Harbin Institute of Technology, Shenzhen, supervised by Prof. Guangming Lu and Prof. Yi Zhao (2019-2023). Before joining HITsz, I obtained my MSc in Northeastern University under supervision of Prof. Shukuan Lin (2015-18). 
 
 After completing my master's degree and before pursuing my PhD, I worked as a search algorithm engineer at Xiaomi Cloud Platform for about a year and a half. During my PhD, I interned at DAMO Academy for more than six months.
 
