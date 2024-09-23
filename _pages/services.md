@@ -18,7 +18,7 @@ nav_order: 5
 ***
 * Multimodal Affective Computing from NLP Perspective
 
-Keynote talk at CUHK-Shenzhen, September, 2024, Online sides [Markdown Live Preview] (https://drive.google.com/file/d/1GTIi-sjL8fuoWaFYaW2-CCtecur5bkrm/view?usp=sharing)
+Keynote talk at CUHK-Shenzhen, September, 2024, Online sides link (https://drive.google.com/file/d/1GTIi-sjL8fuoWaFYaW2-CCtecur5bkrm/view?usp=sharing)
 
 
 
