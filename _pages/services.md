@@ -23,5 +23,4 @@ nav_order: 5
 ***
 * Xiang He (Master, University of Copenhagen)
 
-* Rikianta-Alexandra Rontogianni (Master, co-supervisor, University of Copenhagen)
 
