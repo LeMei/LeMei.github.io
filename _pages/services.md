@@ -16,16 +16,12 @@ nav_order: 5
 
 ## Invited Talk
 ***
-* Multimodal Affective Computing from NLP Perspective
-
-Keynote talk at Human Language Technology Laboratory, Chinese University of Hong Kong, Shenzhen, September, 2024, Online 
-
-sides link (https://drive.google.com/file/d/1GTIi-sjL8fuoWaFYaW2-CCtecur5bkrm/view?usp=sharing)
+* , "Multimodal Affective Computing from NLP Perspective", Keynote talk at Human Language Technology Laboratory, Chinese University of Hong Kong, Shenzhen, September, 2024, Online
 
 
 ## Thesis Supervisor
 ***
-* Xiang He (Master)
+* Xiang He (Master, University of Copenhagen)
 
-* Rikianta-Alexandra Rontogianni (Master, co-supervisor)
+* Rikianta-Alexandra Rontogianni (Master, co-supervisor, University of Copenhagen)
 
