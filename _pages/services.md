@@ -23,4 +23,9 @@ Keynote talk at Human Language Technology Laboratory, Chinese University of Hong
 sides link (https://drive.google.com/file/d/1GTIi-sjL8fuoWaFYaW2-CCtecur5bkrm/view?usp=sharing)
 
 
+## Thesis Supervisor
+***
+* Xiang He (Master)
+
+* Rikianta-Alexandra Rontogianni (Master, co-supervisor)
 
