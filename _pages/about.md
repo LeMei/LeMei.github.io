@@ -7,7 +7,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: personal_pig.jpg
   image_circular: false # crops the image to make it circular
   address: Contact Me 🔎 - rice.hu.x@gmail.com, guhu@di.ku.dk
 
