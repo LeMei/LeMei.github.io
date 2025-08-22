@@ -1,4 +1,3 @@
-gem "uri", "~> 0.10"
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'jekyll'
