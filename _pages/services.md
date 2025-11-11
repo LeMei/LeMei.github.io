@@ -9,9 +9,9 @@ nav_order: 5
 
 ## Academic Works
 ***
-* Journal Reviewer: IEEE-ACM Transactions on Audio Speech and Language Processing, IEEE Transactions on Multimedia, Knowledged-base System, Applied Intelligence, International Journal of Machine Learning and Cybernetics, Cognitive Computation
+* Journal Reviewer: IEEE-ACM Transactions on Audio Speech and Language Processing, IEEE Transactions on Multimedia, Knowledged-base System, Applied Intelligence, International Journal of Machine Learning and Cybernetics, Cognitive Computation, Neurocomputing.
 
-* Conference Reviewer: ARR (ACL, EMNLP, MM, Coling)
+* Conference Reviewer: ARR (ACL, EMNLP, MM, Coling, NIPS, ICLR, AAAI)
 
 
 ## Invited Talk
